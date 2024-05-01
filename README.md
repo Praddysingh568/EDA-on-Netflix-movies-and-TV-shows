@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on Netflix Movies and TV Shows
 
-![Netflix Logo][]
+
 
 Welcome to this captivating exploratory data analysis (EDA) project that delves deep into the vast universe of Netflix's movies and TV shows! 🎥📺
 
